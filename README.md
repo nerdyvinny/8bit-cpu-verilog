@@ -7,6 +7,7 @@ Fibonacci program end to end in simulation.
 Built with Icarus Verilog. No external IP and no generated cores — every module is
 written by hand.
 
+(README MADE WITH AI)
 ---
 
 ## Demo
