@@ -21,6 +21,7 @@ halted after 104 cycles
 acc = 34   expected 34
 r1  = 21   r2 = 34
 ```
+![Fibonacci executing on the CPU](waveform.png)
 
 34 is the 9th Fibonacci number, computed by the processor from the program in
 `fib.asm`.
