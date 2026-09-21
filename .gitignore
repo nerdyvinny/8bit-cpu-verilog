@@ -1,0 +1,5 @@
+*_sim
+*-sim
+*.vcd
+*.gtkw
+program_check.hex
